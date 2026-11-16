@@ -1,16 +1,15 @@
-## Hi there 👋
+# Parker Skool
 
-<!--
-**chilmion/chilmion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I’m Parker.
 
-Here are some ideas to get you started:
+I build small AI tools and document what actually works.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Things I built
+
+**Document connector.** Helps an assistant find cited passages in fictional studio documents. [Source code](https://github.com/chilmion/parker-teaching-tools)
+
+**Evaluation examples.** Three fictional test cases showing a task and the expected behaviour, with their limitations explained. [Dataset on Hugging Face](https://huggingface.co/datasets/ParkerPrompt/parker-reconstructed-eval)
+
+## How I work
+
+I run models on my own server, test the visible results, and keep credentials and operational details private. This work is a tutorial reconstruction using fictional data, not a recovered original course project.
